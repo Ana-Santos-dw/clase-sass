@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2? family= Open+Sans:wght@300;400;500 & family= Red+Hat+Display:wght@300;400;800 & family= Roboto & display=swap");
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+header {
+  background-color: blue;
+}
+header div {
+  background-color: lightblue;
+  width: 30px;
+}
+header div h1 {
+  color: black;
+  font-size: 40px;
+}
+
+.section-one {
+  background-color: beige;
+}
+.section-one h2 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+/*# sourceMappingURL=style.css.map */
